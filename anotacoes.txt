@@ -1,0 +1,15 @@
+/* VS Code
+
+Extenções:
+Live Server - simular 
+Dracula - Tema
+Material Icon Theme - Icones com estilo
+
+Imagens:
+https://postimg.cc/gallery/vgzPxmn
+
+index.html
+html:5
+
+Parei em 1:30 */ 
+
